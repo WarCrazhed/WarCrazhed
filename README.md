@@ -45,12 +45,7 @@
 
 ---
 
-### :fire: **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
-
----
-
 ### :mailbox: **Contacto**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zamora-b4bb07224)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariozamora5126@gmail.com)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fmellow-puffpuff-8b5745.netlify.app%2F%23skill)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mellow-puffpuff-8b5745.netlify.app/#skill)
