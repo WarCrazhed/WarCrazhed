@@ -10,6 +10,13 @@
 
 ---
 
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ### :hammer_and_wrench: **Tecnologías y Herramientas**
 
 #### Lenguajes de Programación
