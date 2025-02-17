@@ -1,0 +1,6 @@
+max_lines: 5
+show_icons: true
+events:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
