@@ -14,13 +14,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [WarCrazhed/portafolio](https://github.com/WarCrazhed/portafolio)<br>
 2. ⬆️ Pushed 1 commit(s) to [WarCrazhed/portafolio](https://github.com/WarCrazhed/portafolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [WarCrazhed/curso-react-intro](https://github.com/WarCrazhed/curso-react-intro)<br>
-4. ⬆️ Pushed 1 commit(s) to [WarCrazhed/curso-react-intro](https://github.com/WarCrazhed/curso-react-intro)<br>
-5. ⬆️ Pushed 1 commit(s) to [WarCrazhed/curso-react-intro](https://github.com/WarCrazhed/curso-react-intro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 21st, 2025, 2:25:05 AM
+Last Updated: Wednesday, May 21st, 2025, 12:16:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
