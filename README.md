@@ -12,15 +12,15 @@
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [WarCrazhed/curso-next15](https://github.com/WarCrazhed/curso-next15)<br>
-2. ⬆️ Pushed undefined commit(s) to [WarCrazhed/php-platzi](https://github.com/WarCrazhed/php-platzi)<br>
+1. ⬆️ Pushed undefined commit(s) to [WarCrazhed/poo-python-platzi](https://github.com/WarCrazhed/poo-python-platzi)<br>
+2. ⬆️ Pushed undefined commit(s) to [WarCrazhed/curso-next15](https://github.com/WarCrazhed/curso-next15)<br>
 3. ⬆️ Pushed undefined commit(s) to [WarCrazhed/php-platzi](https://github.com/WarCrazhed/php-platzi)<br>
 4. ⬆️ Pushed undefined commit(s) to [WarCrazhed/php-platzi](https://github.com/WarCrazhed/php-platzi)<br>
 5. ⬆️ Pushed undefined commit(s) to [WarCrazhed/php-platzi](https://github.com/WarCrazhed/php-platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 22nd, 2025, 1:03:09 PM
+Last Updated: Thursday, October 23rd, 2025, 12:42:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
