@@ -16,11 +16,11 @@
 2. ⬆️ Pushed undefined commit(s) to [WarCrazhed/poo-python-platzi](https://github.com/WarCrazhed/poo-python-platzi)<br>
 3. ⬆️ Pushed undefined commit(s) to [WarCrazhed/poo-python-platzi](https://github.com/WarCrazhed/poo-python-platzi)<br>
 4. ⬆️ Pushed undefined commit(s) to [WarCrazhed/poo-python-platzi](https://github.com/WarCrazhed/poo-python-platzi)<br>
-5. ⬆️ Pushed undefined commit(s) to [WarCrazhed/curso-next15](https://github.com/WarCrazhed/curso-next15)<br>
+5. ⬆️ Pushed undefined commit(s) to [WarCrazhed/poo-python-platzi](https://github.com/WarCrazhed/poo-python-platzi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 12th, 2025, 1:04:01 PM
+Last Updated: Thursday, November 13th, 2025, 12:44:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
