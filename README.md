@@ -12,15 +12,15 @@
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [WarCrazhed/guitarla-vue](https://github.com/WarCrazhed/guitarla-vue)<br>
-2. ⬆️ Pushed undefined commit(s) to [WarCrazhed/guitarla-vue](https://github.com/WarCrazhed/guitarla-vue)<br>
+1. ⬆️ Pushed undefined commit(s) to [WarCrazhed/presentation-of-objectives](https://github.com/WarCrazhed/presentation-of-objectives)<br>
+2. ⬆️ Pushed undefined commit(s) to [WarCrazhed/presentation-of-objectives](https://github.com/WarCrazhed/presentation-of-objectives)<br>
 3. ⬆️ Pushed undefined commit(s) to [WarCrazhed/guitarla-vue](https://github.com/WarCrazhed/guitarla-vue)<br>
-4. ⬆️ Pushed undefined commit(s) to [WarCrazhed/django-rest-framework](https://github.com/WarCrazhed/django-rest-framework)<br>
-5. ⬆️ Pushed undefined commit(s) to [WarCrazhed/django-rest-framework](https://github.com/WarCrazhed/django-rest-framework)<br>
+4. ⬆️ Pushed undefined commit(s) to [WarCrazhed/guitarla-vue](https://github.com/WarCrazhed/guitarla-vue)<br>
+5. ⬆️ Pushed undefined commit(s) to [WarCrazhed/guitarla-vue](https://github.com/WarCrazhed/guitarla-vue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 5th, 2026, 1:42:11 PM
+Last Updated: Friday, March 6th, 2026, 1:05:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
